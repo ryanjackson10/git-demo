@@ -1,4 +1,7 @@
 print("Hello, World!")
 
-def hello_message():
-    print("Hello, hope you're doing VERY well")
+def hello_greeting():
+    print("Hello, hope you're doing well")
+
+def goodbye_greeting():
+    print("Goodbye, hope you had a great time")
